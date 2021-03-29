@@ -42,7 +42,6 @@ Peter Ralph: plr@uoregon.edu
 
 Math 672: part 1 of this series.
 
-
 ## Inclusion and accessibility
 
 Please tell us your preferred pronouns and/or name,
@@ -62,4 +61,9 @@ Let us know if there are class dynamics that impede your (or someone else’s) f
 Please see [this page](policies.html) for more information on
 campus resources, academic integrity, discrimination, and harassment (and reporting of it).
 
+
+## Acknowledgements:
+
+Thanks to Jim Pitman for sharing his course's material,
+from which some of the content here draws inspiration.
 
