@@ -1,6 +1,6 @@
-The actual website can be viewed at [https://petrelharp.github.io/course_website/](https://petrelharp.github.io/course_website/).
+The actual website can be viewed at [https://petrelharp.github.io/probability_theory/](https://petrelharp.github.io/probability_theory/).
 
-Quick link: the [schedule](https://petrelharp.github.io/course_website/schedule.html).
+Quick link: the [schedule](https://petrelharp.github.io/probability_theory/schedule.html).
 
 
 --------------------
