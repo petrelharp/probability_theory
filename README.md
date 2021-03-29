@@ -13,7 +13,7 @@ by way of [Cécile Ané](http://cecileane.github.io/computingtools/).
 
 *Notes on installation/building:*
 
-- To view a local version run `jekyll serve`.
+- To view a local version run `bundle exec jekyll serve`.
 
 - To get this to build locally with Debian, I had to `aptitude remove jekyll`; `bundle update`; 
     then find where the executable is using `bundle info jekyll`; 
