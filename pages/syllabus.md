@@ -31,7 +31,8 @@ Peter Ralph: plr@uoregon.edu
 
 - *Schedule:* MWF 3:30 - 4:30 pm
 - *Location:* on zoom, see Canvas for details
-- *Assignments:* Assigned, and due, on Wednesdays
+- *Assignments:* Assigned, and due, on Wednesdays, through Canvas
+- *Exams:* One midterm and one final, details to be discussed in class
 
 ## Textbooks
 
