@@ -17,6 +17,7 @@ Week 1
     - construction of Markov chains and the Markov properties; Chapman-Kolmogorov equation
     - *reading:* Durrett, 5.1, 5.2
     - *whiteboard:* [day 1](../notes/day01.html)
+    - *homework (due 4/7):* Durrett 5.1.2, 5.1.3, 5.2.11, 5.2.12
 
 Week 2
 
