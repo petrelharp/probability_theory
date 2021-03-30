@@ -34,6 +34,13 @@ Peter Ralph: plr@uoregon.edu
 - *Assignments:* Assigned, and due, on Wednesdays, through Canvas
 - *Exams:* One midterm and one final, details to be discussed in class
 
+## Evaluation
+
+Grades will be assigned based on weekly homework and performance in exams:
+either 70% homeworks and 30% exams or 50% homeworks and 50% exams,
+whichever is greater. Homeworks will be weighted equally, with the lowest two dropped;
+exams are weighted equally.
+
 ## Textbooks
 
 *Probability: Theory and Examples*, 5th edition

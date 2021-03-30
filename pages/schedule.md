@@ -46,6 +46,7 @@ Week 5
 
 : Brownian motion: introduction and construction
 
+    - **Midterm:** Tuesday
     - *reading:* Durrett, 7.1 - 7.3
 
 Week 6
@@ -76,4 +77,10 @@ Week 10
 
 : Brownian motion and elliptic PDE
 
-    - *reading:* DUrrett, 9.4-9.7
+    - *reading:* Durrett, 9.4-9.7
+
+Week 11
+
+: Final exam
+
+    - date TBD
