@@ -13,7 +13,7 @@ DIR=day$(printf "%02d" $DAY)
 mkdir $DIR
 cd $DIR
 unzip ../Photos.zip 
-mogrify -strip *.jpg
+mogrify ${*:2} -strip *.jpg
 
 MD="../${DIR}.md"
 echo "---" > $MD
