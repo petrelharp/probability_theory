@@ -16,7 +16,7 @@ Week 1
     - stochastic processes, generally
     - construction of Markov chains and the Markov properties; Chapman-Kolmogorov equation
     - *reading:* Durrett, 5.1, 5.2
-    - *whiteboard:* [day 1](../notes/day01.html) [day 2](../notes/day02.html)
+    - *whiteboard:* [day 1](../notes/day01.html) [day 2](../notes/day02.html) [day 3](../notes/day03.html)
     - *homework (due 4/7):* Durrett 5.1.2, 5.1.3, 5.2.7, 5.2.8
 
 Week 2
