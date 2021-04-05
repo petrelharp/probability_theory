@@ -26,6 +26,7 @@ Week 2
     - recurrence and transience
     - stationary measures and reversibility
     - convergence to stationarity
+    - *whiteboard:* [day 4](../notes/day04.html)
     - *reading:* Durrett, 5.3, 5.5
 
 Week 3
