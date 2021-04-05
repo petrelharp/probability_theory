@@ -24,7 +24,7 @@ and to become more familiar with working with probability
 
 Peter Ralph: plr@uoregon.edu
 
-*Office hours:* TBA
+*Office hours:* see Canvas
 
 
 ## Course Information
