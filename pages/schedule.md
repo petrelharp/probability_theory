@@ -26,7 +26,7 @@ Week 2
     - recurrence and transience
     - stationary measures and reversibility
     - convergence to stationarity
-    - *whiteboard:* [day 4](../notes/day04.html)
+    - *whiteboard:* [day 4](../notes/day04.html) // [day 5](../notes/day05.html)
     - *reading:* Durrett, 5.3, 5.5
     - *homework (due 4/14):* Durrett 5.3.2, 5.3.4, 5.5.2, 5.5.6
 
