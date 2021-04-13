@@ -37,6 +37,7 @@ Week 3
     - asymptotic behavior of Markov chains
     - convergence, via coupling
     - tail sigma-field
+    - *whiteboard:* [day 7](../notes/day07.html)
     - *reading:* Durrett, 5.6, 5.7
 
 Week 4
