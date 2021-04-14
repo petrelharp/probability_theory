@@ -39,6 +39,7 @@ Week 3
     - tail sigma-field
     - *whiteboard:* [day 7](../notes/day07.html) // [day 8](../notes/day08.html)
     - *reading:* Durrett, 5.6, 5.7
+    - *homework (due 4/21)*: Durrett 5.6.1, 5.6.7, 5.7.1 and [this problem](../problems/h-transform.html)
 
 Week 4
 

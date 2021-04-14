@@ -26,6 +26,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
+  usemathjax: true
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

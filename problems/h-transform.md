@@ -14,6 +14,6 @@ with $h(x) = 1$ for $x \in A$ and $h(x) = 0$ for $x \in B$.
 Show that $X$ conditioned on $X_{T_{A \cup B}} \in A$
 is a Markov chain with transition probabilities
 $$
- \widetilde p(x, y) = \frac{ p(x, y) h(y) }{ h(x) } .
+ q(x, y) = \frac{ p(x, y) h(y) }{ h(x) } .
 $$
 
