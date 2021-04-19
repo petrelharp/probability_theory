@@ -45,6 +45,7 @@ Week 4
 
 : Ergodic theorems
 
+    - *whiteboard:* [day 10](../notes/day10.html)
     - *reading:* Durrett, 6.1, 6.2
 
 Week 5
