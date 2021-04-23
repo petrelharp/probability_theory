@@ -48,7 +48,7 @@ Week 4
     - stationary sequences and measure-preserving transformations
     - Birkhoff's ergodic theorem
     - Benford's law
-    - *whiteboard:* [day 10](../notes/day10.html) // [day 11](../notes/day11.html)
+    - *whiteboard:* [day 10](../notes/day10.html) // [day 11](../notes/day11.html) // [day 12](../notes/day12.html)
     - *reading:* Durrett, 6.1, 6.2
     - *homework*: none, due to midterm
 
