@@ -56,7 +56,9 @@ Week 5
 
 : Brownian motion: introduction and construction
 
+    - review from Markov chains
     - **Midterm:** Tuesday
+    - *whiteboard:* [day 13](../notes/day13.html)
     - *reading:* Durrett, 7.1 - 7.3
 
 Week 6
