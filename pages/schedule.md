@@ -58,7 +58,7 @@ Week 5
 
     - review from Markov chains
     - **Midterm:** Tuesday
-    - *whiteboard:* [day 13](../notes/day13.html)
+    - *whiteboard:* [day 13](../notes/day13.html) // [day 15](../notes/day15.html)
     - *reading:* Durrett, 7.1 - 7.3
 
 Week 6
