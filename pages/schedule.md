@@ -72,6 +72,7 @@ Week 6
     - stopping times and right-continuity
     - strong Markov property
     - *reading:* Durrett, 7.1-7.3
+    - *whiteboard:* [day 16](../notes/day16.html) //
     - *homework (due 5/12)*: 7.1.1, 7.1.3, 7.1.6, 7.2.1, 7.3.2
 
 Week 7
