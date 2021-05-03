@@ -57,39 +57,47 @@ Week 5
 : Brownian motion: introduction and construction
 
     - review from Markov chains
+    - Lévy's construction of Brownian motion
     - **Midterm:** Tuesday
     - *whiteboard:* [day 13](../notes/day13.html) // [day 15](../notes/day15.html)
-    - *reading:* Durrett, 7.1 - 7.3
+    - *reading:* Durrett, 7.1
 
 Week 6
 
-: Brownian motion: martingales and stopping times
+: Brownian motion: continuity, Markov properties, stopping times
 
-    - *reading:* Durrett, 7.4-7.5
+    - Brownian scaling and measure-preserving transformations
+    - Hölder continuity, nowhere-differentiability
+    - germ field, hitting zero
+    - stopping times and right-continuity
+    - strong Markov property
+    - *reading:* Durrett, 7.1-7.3
+    - *homework (due 5/12)*: 7.1.1, 7.1.3, 7.1.6, 7.2.1, 7.3.2
 
 Week 7
 
-: Brownian motion: Donsker's theorem and ??
+: Brownian motion: path properties, hitting times, zero set, reflection principle, martingales
 
-    - *reading:* Durrett, 8.1
+    - *reading:* Durrett, 7.4-7.5
 
 Week 8
 
-: Itô's formula and stochastic integration
+: Brownian motion: Itô's formula and stochastic integration, quadratic variation
 
-    - *reading:* Durrett, 7.6 and ??
+    - *reading:* Durrett, 7.6
 
 Week 9
 
-: Multidimensional Brownian motion and the heat equation
+: Brownian motion: Skorokhod embedding, Donsker's theorem, law of the iterated logarithm, Brownian bridge
 
-    - *reading:* Durrett, 9.1-9.3
+    - *reading:* Durrett, 8.1, 8.4, 8.5
+
 
 Week 10
 
-: Brownian motion and elliptic PDE
+: Multidimensional Brownian motion and the heat equation
 
-    - *reading:* Durrett, 9.4-9.7
+    - *reading:* Durrett, 9.1-9.4
 
 Week 11
 
