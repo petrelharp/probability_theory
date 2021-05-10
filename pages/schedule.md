@@ -77,9 +77,16 @@ Week 6
 
 Week 7
 
-: Brownian motion: path properties, hitting times, zero set, reflection principle, martingales
+: Brownian motion: path properties and optional sampling
 
+    - the maximum process
+    - the hitting time process
+    - the reflection principle
+    - the zero set
+    - optional sampling
+    - Brownian martingales
     - *reading:* Durrett, 7.4-7.5
+    - *whiteboard:* [day 19](../notes/day19.html) //
 
 Week 8
 
