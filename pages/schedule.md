@@ -87,6 +87,7 @@ Week 7
     - Brownian martingales
     - *reading:* Durrett, 7.4-7.5
     - *whiteboard:* [day 19](../notes/day19.html) //
+    - *homework (due 5/19)*: 7.4.1, 7.5.1, and [this problem](../problems/brownian-bridge.html)
 
 Week 8
 
