@@ -91,9 +91,13 @@ Week 7
 
 Week 8
 
-: Brownian motion: Itô's formula and stochastic integration, quadratic variation
+: Brownian motion: Itô's formula
 
+    - quadratic variation
+    - Itô's formula 
+    - stochastic integration
     - *reading:* Durrett, 7.6
+    - *whiteboard:* [day 22](../notes/day22.html) //
 
 Week 9
 
