@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework problem - the Brownian bridge
-description: schedule
+description: Brownian bridge
 ---
 
 
@@ -25,3 +25,5 @@ $( \widehat{B}^\epsilon_t )_{t\in[0,1]}$
 be the process $B$
 conditioned on $\{ |B_1| < \epsilon \}$,
 then $\widehat{B}^\epsilon$ converges in distribution to $\widehat{B}$.
+
+*Attribution:* This problem is modified from worksheets provided by Jim Pitman (thanks!).

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework problem - the $h$-transform
-description: schedule
+description: the h tranform
 ---
 
 
@@ -17,3 +17,4 @@ $$
  q(x, y) = \frac{ p(x, y) h(y) }{ h(x) } .
 $$
 
+*Attribution:* This problem is modified from worksheets provided by Jim Pitman (thanks!).

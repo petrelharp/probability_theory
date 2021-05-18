@@ -98,6 +98,7 @@ Week 8
     - stochastic integration
     - *reading:* Durrett, 7.6
     - *whiteboard:* [day 22](../notes/day22.html) //
+    - *homework (due 5/26)*: 7.6.2, 7.6.3, and [this problem](../problems/exponential_stopping.html)
 
 Week 9
 
