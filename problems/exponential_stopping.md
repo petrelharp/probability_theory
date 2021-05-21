@@ -6,7 +6,7 @@ description: exponential stopping
 
 Let $B$ be a standard Brownian motion and let $S$ be
 a random variable independent of $B$ with the standard
-exponential distribution (so, $\mathbb{P}\{S > t\} = \exp(-t)$ for $t \ge 0$),
+exponential distribution (so, $\mathbb{P}\\{S > t \\} = \exp(-t)$ for $t \ge 0$),
 and let $\theta > 0$ be a constant.
 
 
