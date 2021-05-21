@@ -97,7 +97,7 @@ Week 8
     - Itô's formula 
     - stochastic integration
     - *reading:* Durrett, 7.6
-    - *whiteboard:* [day 22](../notes/day22.html) // [day 23](../notes/day23.html) //
+    - *whiteboard:* [day 22](../notes/day22.html) // [day 23](../notes/day23.html) // [day 24](../notes/day24.html)
     - *homework (due 5/26)*: 7.6.2, 7.6.3, and [this problem](../problems/exponential_stopping.html)
 
 Week 9

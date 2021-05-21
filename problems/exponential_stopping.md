@@ -27,3 +27,4 @@ and let $\theta > 0$ be a constant.
         $$
         where $S$ and $S'$ are independent copies of $S$.
 
+*Attribution:* This problem is modified from worksheets provided by Jim Pitman (thanks!).
