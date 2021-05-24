@@ -102,9 +102,16 @@ Week 8
 
 Week 9
 
-: Brownian motion: Skorokhod embedding, Donsker's theorem, law of the iterated logarithm, Brownian bridge
+: Brownian motion: Donsker's theorem; higher-dimensional Brownian motion
 
-    - *reading:* Durrett, 8.1, 8.4, 8.5
+    - Skorokhod embedding
+    - Donsker's theorem
+    - consequences for random walk
+    - Brownian bridge
+    - harmonic functions in $\mathbb{R}^d$
+    - recurrence and transience in $\mathbb{R}^d$
+    - *reading:* Durrett, 8.1, 8.4, 9.1
+    - *homework (due 6/2)*: 8.1.2 and [this problem](../problems/skorokhod.html)
 
 
 Week 10
