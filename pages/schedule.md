@@ -111,7 +111,7 @@ Week 9
     - harmonic functions in $\mathbb{R}^d$
     - recurrence and transience in $\mathbb{R}^d$
     - *reading:* Durrett, 8.1, 8.4, 9.1
-    - *whiteboard:* [day 25](../notes/day25.html) // [day 26](../notes/day26.html) //
+    - *whiteboard:* [day 25](../notes/day25.html) // [day 26](../notes/day26.html) // [day 27](../notes/day27.html)
     - *homework (due 6/2)*: 8.1.2 and [this problem](../problems/skorokhod.html)
 
 
@@ -125,4 +125,4 @@ Week 11
 
 : Final exam
 
-    - date TBD
+    - 2:45pm, Tuesday, June 8th
