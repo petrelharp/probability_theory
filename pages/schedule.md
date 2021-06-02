@@ -109,7 +109,6 @@ Week 9
     - consequences for random walk
     - Brownian bridge
     - harmonic functions in $\mathbb{R}^d$
-    - recurrence and transience in $\mathbb{R}^d$
     - *reading:* Durrett, 8.1, 8.4, 9.1
     - *whiteboard:* [day 25](../notes/day25.html) // [day 26](../notes/day26.html) // [day 27](../notes/day27.html)
     - *homework (due 6/2)*: 8.1.2 and [this problem](../problems/skorokhod.html)
@@ -119,7 +118,11 @@ Week 10
 
 : Multidimensional Brownian motion and the heat equation
 
-    - *reading:* Durrett, 9.1-9.4
+    - the maximum principle
+    - recurrence and transience in $\mathbb{R}^d$
+    - the heat equation
+    - *reading:* Durrett, 9.1-9.3
+    - *no homework*
 
 Week 11
 
