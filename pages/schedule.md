@@ -122,6 +122,7 @@ Week 10
     - recurrence and transience in $\mathbb{R}^d$
     - the heat equation
     - *reading:* Durrett, 9.1-9.3
+    - *whiteboard:* [day 28](../notes/day28.html)
     - *no homework*
 
 Week 11
