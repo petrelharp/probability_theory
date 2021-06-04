@@ -4,9 +4,9 @@ title: Course schedule
 description: schedule
 ---
 
-Here's the proposed course schedule,
+Here's the course schedule,
 with topics and readings.
-We may adjust this as we go along!
+And, here is a [single page with all the notes](everything.html).
 
 Week 1
 
