@@ -6,7 +6,7 @@ description: schedule
 
 Here's the course schedule,
 with topics and readings.
-And, here is a [single page with all the notes](everything.html).
+And, here is a [single page with all the notes](../notes/everything.html).
 
 Week 1
 
