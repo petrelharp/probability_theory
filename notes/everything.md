@@ -528,3 +528,18 @@ description: photos of the whiteboard during class
 
 ![photo ](day28/day28_06.jpg)
 
+
+## Day 29
+
+
+![photo ](day29/day29_00.jpg)
+
+
+![photo ](day29/day29_01.jpg)
+
+
+![photo ](day29/day29_02.jpg)
+
+
+![photo ](day29/day29_03.jpg)
+
