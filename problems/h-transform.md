@@ -6,7 +6,7 @@ description: the h tranform
 
 
 Let $X$ be a Markov chain on $S$,
-and $T_C = \min\{n \ge 1 : X_n \in C\}$ be the first hitting time of $C$ for $C \subset S$.
+and $T_C = \min\\{n \ge 1 : X_n \in C\\}$ be the first hitting time of $C$ for $C \subset S$.
 Let $A$, $B$ be two disjoint subsets of $S$
 with $T_{A \cup B} < \infty$ almost surely,
 and let $h$ be the unique bounded harmonic function on $S \setminus (A \cup B)$
